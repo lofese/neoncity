@@ -805,7 +805,7 @@ data['timer'] = setInterval(function () {
 	data['mouse']['z']['2d']['function']()
 	data['mouse']['z']['3d']['function']()
 	data['mouse']['rotate']['x']['function']()
-	data['mouse']['rotate']['z']['function']()
+	//data['mouse']['rotate']['z']['function']()
 	//data['mouse']['rotate']['y']['function']()
 	
 	data['picture']['load']['function']()
